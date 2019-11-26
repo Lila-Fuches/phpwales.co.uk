@@ -1,0 +1,25 @@
+/* /src/assets/css/global.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --bg-color: #F7FAFC;
+    --text-color: #2D3748;
+}
+
+body[data-theme="dark"] {
+    --bg-color: #2D3748;
+    --text-color: #F7FAFC;
+}
+
+body.dark {
+    --bg-color: #2D3748;
+    --text-color: #F7FAFC;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: color .6s, background-color .6s;
+}
