@@ -4,20 +4,44 @@ backend:
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 collections:
-  - name: "posts" # Used in routes, e.g., /admin/collections/blog
-    label: "Posts" # Used in the UI
-    folder: "content/posts" # The path to the folder where the documents are stored
+  - name: "speakers"
+    label: "Speakers"
+    folder: "content/speakers"
+    create: true
+    slug: "{{slug}}"
+    extension: 'md'
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Job Title", name: "job", widget: "string"}
+      - {label: "Company Name", name: "company", widget: "string"}
+      - {label: "Headshot", name: "headshot", widget: "image", required: false}
+      - {label: "Talk Title", name: "talk", widget: "string"}
+      - {label: "Twitter Link", name: "twitter", widget: "string"}
+      - {label: "Announced", name: "announced", widget: "boolean", default: true}
+  - name: "sponsors" # Used in routes, e.g., /admin/collections/blog
+    label: "Sponsors" # Used in the UI
+    folder: "content/sponsors" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     extension: 'md'
     fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Cover Image", name: "cover_image", widget: "image", required: false}
       - {label: "Published", name: "published", widget: "boolean", default: true}
-      - label: "Tags"
-        name: "tags"
+      - label: "Sponsor Types"
+        name: "types"
         widget: "list"
         field: {label: Name, name: name, widget: string, default: "tag"}
-      - {label: "Cover Image", name: "cover_image", widget: "image", required: false}
       - {label: "Description", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "partners" # Used in routes, e.g., /admin/collections/blog
+    label: "Partners" # Used in the UI
+    folder: "content/partners" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    extension: 'md'
+    fields: # The fields for each document, usually in front matter
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Cover Image", name: "cover_image", widget: "image", required: false}
+      - {label: "Published", name: "published", widget: "boolean", default: true}
+      - {label: "Description", name: "description", widget: "markdown"}
+
