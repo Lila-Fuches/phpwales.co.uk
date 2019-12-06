@@ -1,5 +1,5 @@
 <template>
-  <div class="md:flex bg-background-primary rounded-lg p-6">
+  <div class="md:flex bg-background-primary rounded-lg p-6 mb-6">
     <g-image
       :src="speaker.headshot"
       alt="Speaker Avatar"
