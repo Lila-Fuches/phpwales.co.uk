@@ -1,10 +1,17 @@
 <template>
-  <Layout :show-logo="false">
+  <Layout>
     <div>
-      <div class="container px-3 mx-auto flex flex-wrap flex-col md:flex-row items-center">
+      <hero>
+      <template v-slot:heading>
+        Code of Conduct
+      </template>
+      <template v-slot:message>
+        Please make sure you understand this code of conduct, <br>
+        if you have problems constact us directly.
+      </template>
+    </hero>
+      <div class="container px-3 mx-auto flex flex-wrap flex-col md:flex-row items-center mb-6">
         <div class="text-lg leading-wide">
-          <h1 class="text-3xl mb-2">Conference Code of Conduct</h1>
-
           <p class="mb-4">All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.</p>
 
           <h2 class="text-2xl mb-2">Need Help?</h2>
@@ -40,7 +47,7 @@
 </template>
 
 <script>
-import Mailchimp from "~/components/Mailchimp";
+import Hero from "~/components/Hero";
 export default {
   metaInfo: {
     title: "Code of Conduct",
@@ -64,7 +71,7 @@ export default {
     ]
   },
   components: {
-    Mailchimp
+    Hero
   }
 };
 </script>

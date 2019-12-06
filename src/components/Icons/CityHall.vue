@@ -1,0 +1,691 @@
+<template>
+  <svg
+    :class="`h-${this.height} w-${this.width}`"
+    viewBox="0 0 933 388"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path d="M46.5 387C46.5 387 46.5 323.005 46.5 282L44.5 279" class="stroke-current" />
+    <line y1="386.5" x2="933" y2="386.5" class="stroke-current" />
+    <line x1="46" y1="370.5" x2="433" y2="370.5" class="stroke-current" />
+    <line x1="46" y1="375.5" x2="149" y2="375.5" class="stroke-current" />
+    <line x1="149.5" y1="282" x2="149.5" y2="387" class="stroke-current" />
+    <line x1="401.5" y1="342" x2="401.5" y2="387" class="stroke-current" />
+    <line x1="433.5" y1="342" x2="433.5" y2="387" class="stroke-current" />
+    <line x1="433" y1="342.5" x2="503" y2="342.5" class="stroke-current" />
+    <line x1="459.5" y1="342" x2="459.5" y2="387" class="stroke-current" />
+    <line x1="476" y1="387.006" x2="476" y2="341.994" class="stroke-current" />
+    <line x1="503.5" y1="342" x2="503.5" y2="387" class="stroke-current" />
+    <line x1="503" y1="370.5" x2="890" y2="370.5" class="stroke-current" />
+    <line x1="534.5" y1="342" x2="534.5" y2="387" class="stroke-current" />
+    <line x1="595.031" y1="371.002" x2="595.031" y2="268.997" class="stroke-current" />
+    <line x1="558.5" y1="269" x2="558.5" y2="371" class="stroke-current" />
+    <line x1="610.5" y1="269" x2="610.5" y2="371" class="stroke-current" />
+    <line x1="609.998" y1="275" x2="892.999" y2="274.495" class="stroke-current" />
+    <line x1="787.5" y1="282" x2="787.5" y2="387" class="stroke-current" />
+    <line x1="890.5" y1="282" x2="890.5" y2="387" class="stroke-current" />
+    <line x1="787" y1="375.5" x2="890" y2="375.5" class="stroke-current" />
+    <line x1="44" y1="274.5" x2="327" y2="274.5" class="stroke-current" />
+    <line x1="327.5" y1="269" x2="327.5" y2="369" class="stroke-current" />
+    <line x1="340.5" y1="269" x2="340.5" y2="371" class="stroke-current" />
+    <line x1="377.5" y1="269" x2="377.5" y2="371" class="stroke-current" />
+    <line x1="327" y1="269.5" x2="436" y2="269.5" class="stroke-current" />
+    <line x1="435.5" y1="239" x2="435.5" y2="319" class="stroke-current" />
+    <line x1="436" y1="318.5" x2="500" y2="318.5" class="stroke-current" />
+    <rect x="640.5" y="285.5" width="18" height="29" class="stroke-current" />
+    <rect x="565.5" y="273.5" width="24" height="34" class="stroke-current" />
+    <rect x="346.5" y="272.5" width="24" height="34" class="stroke-current" />
+    <rect x="482.5" y="349.5" width="15" height="29" class="stroke-current" />
+    <rect x="438.5" y="349.5" width="15" height="29" class="stroke-current" />
+    <rect x="610.5" y="285.5" width="18" height="29" class="stroke-current" />
+    <rect x="671.5" y="285.5" width="18" height="29" class="stroke-current" />
+    <rect x="701.5" y="285.5" width="18" height="29" class="stroke-current" />
+    <rect x="731.5" y="285.5" width="18" height="29" class="stroke-current" />
+    <rect x="761.5" y="285.5" width="18" height="29" class="stroke-current" />
+    <rect x="831.5" y="285.5" width="15" height="29" class="stroke-current" />
+    <rect x="805.5" y="285.5" width="11" height="29" class="stroke-current" />
+    <rect x="860.5" y="285.5" width="11" height="29" class="stroke-current" />
+    <circle cx="680.5" cy="338.5" r="6" class="stroke-current" />
+    <circle cx="649.5" cy="338.5" r="6" class="stroke-current" />
+    <circle cx="619.5" cy="338.5" r="6" class="stroke-current" />
+    <circle cx="577.5" cy="332.5" r="8" class="stroke-current" />
+    <circle cx="710.5" cy="338.5" r="6" class="stroke-current" />
+    <circle cx="740.5" cy="338.5" r="6" class="stroke-current" />
+    <circle cx="770.5" cy="338.5" r="6" class="stroke-current" />
+    <circle cx="838.5" cy="338.5" r="6" class="stroke-current" />
+    <path
+      d="M760.5 370.5V332.022C764.323 328.18 767.266 326.462 770.213 326.501C773.176 326.539 776.305 328.352 780.5 332.041V370.5H760.5Z"
+      class="stroke-current"
+    />
+    <path
+      d="M828.5 370.5V332.022C832.323 328.18 835.266 326.462 838.213 326.501C841.176 326.539 844.305 328.352 848.5 332.041V370.5H828.5Z"
+      class="stroke-current"
+    />
+    <path
+      d="M803.5 370.5V331.966C804.76 330.064 805.874 328.685 806.911 327.785C807.966 326.87 808.902 326.483 809.803 326.501C810.712 326.518 811.688 326.949 812.816 327.886C813.918 328.801 815.122 330.164 816.5 331.983V370.5H803.5Z"
+      class="stroke-current"
+    />
+    <path
+      d="M860.5 370.5V331.966C861.76 330.064 862.874 328.685 863.911 327.785C864.966 326.87 865.902 326.483 866.803 326.501C867.712 326.518 868.688 326.949 869.816 327.886C870.918 328.801 872.122 330.164 873.5 331.983V370.5H860.5Z"
+      class="stroke-current"
+    />
+    <path
+      d="M347.5 370.5V325.051C351.887 320.502 355.274 318.455 358.673 318.501C362.089 318.547 365.688 320.704 370.5 325.071V370.5H347.5Z"
+      class="stroke-current"
+    />
+    <path
+      d="M730.5 370.5V332.022C734.323 328.18 737.266 326.462 740.213 326.501C743.176 326.539 746.305 328.352 750.5 332.041V370.5H730.5Z"
+      class="stroke-current"
+    />
+    <path
+      d="M700.5 370.5V332.022C704.323 328.18 707.266 326.462 710.213 326.501C713.176 326.539 716.305 328.352 720.5 332.041V370.5H700.5Z"
+      class="stroke-current"
+    />
+    <path
+      d="M670.5 370.5V332.022C674.323 328.18 677.266 326.462 680.213 326.501C683.176 326.539 686.305 328.352 690.5 332.041V370.5H670.5Z"
+      class="stroke-current"
+    />
+    <path
+      d="M639.5 370.5V332.022C643.323 328.18 646.266 326.462 649.213 326.501C652.176 326.539 655.305 328.352 659.5 332.041V370.5H639.5Z"
+      class="stroke-current"
+    />
+    <path
+      d="M565.5 370.5V325.057C570.067 320.511 573.602 318.455 577.159 318.501C580.733 318.547 584.49 320.713 589.5 325.077V370.5H565.5Z"
+      class="stroke-current"
+    />
+    <path
+      d="M610.5 370.5V332.022C614.323 328.18 617.266 326.462 620.213 326.501C623.176 326.539 626.305 328.352 630.5 332.041V370.5H610.5Z"
+      class="stroke-current"
+    />
+    <circle cx="286.5" cy="338.5" r="6" class="stroke-current" />
+    <path
+      d="M276.5 370.5V332.022C280.323 328.18 283.266 326.462 286.213 326.501C289.176 326.539 292.305 328.352 296.5 332.041V370.5H276.5Z"
+      class="stroke-current"
+    />
+    <circle cx="317.5" cy="338.5" r="6" class="stroke-current" />
+    <path
+      d="M307.5 370.5V332.022C311.323 328.18 314.266 326.462 317.213 326.501C320.176 326.539 323.305 328.352 327.5 332.041V370.5H307.5Z"
+      class="stroke-current"
+    />
+    <circle cx="256.5" cy="338.5" r="6" class="stroke-current" />
+    <path
+      d="M246.5 370.5V332.022C250.323 328.18 253.266 326.462 256.213 326.501C259.176 326.539 262.305 328.352 266.5 332.041V370.5H246.5Z"
+      class="stroke-current"
+    />
+    <circle cx="225.5" cy="338.5" r="6" class="stroke-current" />
+    <path
+      d="M215.5 370.5V332.022C219.323 328.18 222.266 326.462 225.213 326.501C228.176 326.539 231.305 328.352 235.5 332.041V370.5H215.5Z"
+      class="stroke-current"
+    />
+    <circle cx="195.5" cy="338.5" r="6" class="stroke-current" />
+    <path
+      d="M185.5 370.5V332.022C189.323 328.18 192.266 326.462 195.213 326.501C198.176 326.539 201.305 328.352 205.5 332.041V370.5H185.5Z"
+      class="stroke-current"
+    />
+    <circle cx="165.5" cy="338.5" r="6" class="stroke-current" />
+    <path
+      d="M155.5 370.5V332.022C159.323 328.18 162.266 326.462 165.213 326.501C168.176 326.539 171.305 328.352 175.5 332.041V370.5H155.5Z"
+      class="stroke-current"
+    />
+    <circle cx="97.5" cy="338.5" r="6" class="stroke-current" />
+    <path
+      d="M87.5 370.5V332.022C91.3231 328.18 94.2662 326.462 97.2128 326.501C100.176 326.539 103.305 328.352 107.5 332.041V370.5H87.5Z"
+      class="stroke-current"
+    />
+    <line x1="610.5" y1="315" x2="610.5" y2="320" class="stroke-current" />
+    <line x1="610" y1="319.5" x2="615" y2="319.5" class="stroke-current" />
+    <line x1="615.5" y1="319" x2="615.5" y2="323" class="stroke-current" />
+    <line x1="615" y1="322.5" x2="625" y2="322.5" class="stroke-current" />
+    <line x1="624.5" y1="323" x2="624.5" y2="318" class="stroke-current" />
+    <line x1="625" y1="318.5" x2="628" y2="318.5" class="stroke-current" />
+    <line x1="628.5" y1="315" x2="628.5" y2="319" class="stroke-current" />
+    <line x1="640.5" y1="315" x2="640.5" y2="320" class="stroke-current" />
+    <line x1="640" y1="319.5" x2="645" y2="319.5" class="stroke-current" />
+    <line x1="645.5" y1="319" x2="645.5" y2="323" class="stroke-current" />
+    <line x1="645" y1="322.5" x2="655" y2="322.5" class="stroke-current" />
+    <line x1="654.5" y1="323" x2="654.5" y2="318" class="stroke-current" />
+    <line x1="655" y1="318.5" x2="658" y2="318.5" class="stroke-current" />
+    <line x1="658.5" y1="315" x2="658.5" y2="319" class="stroke-current" />
+    <line x1="671.5" y1="315" x2="671.5" y2="320" class="stroke-current" />
+    <line x1="671" y1="319.5" x2="676" y2="319.5" class="stroke-current" />
+    <line x1="676.5" y1="319" x2="676.5" y2="323" class="stroke-current" />
+    <line x1="676" y1="322.5" x2="686" y2="322.5" class="stroke-current" />
+    <line x1="685.5" y1="323" x2="685.5" y2="318" class="stroke-current" />
+    <line x1="686" y1="318.5" x2="689" y2="318.5" class="stroke-current" />
+    <line x1="689.5" y1="315" x2="689.5" y2="319" class="stroke-current" />
+    <rect x="306.5" y="285.5" width="18" height="29" class="stroke-current" />
+    <line x1="306.5" y1="315" x2="306.5" y2="320" class="stroke-current" />
+    <line x1="306" y1="319.5" x2="311" y2="319.5" class="stroke-current" />
+    <line x1="311.5" y1="319" x2="311.5" y2="323" class="stroke-current" />
+    <line x1="311" y1="322.5" x2="321" y2="322.5" class="stroke-current" />
+    <line x1="320.5" y1="323" x2="320.5" y2="318" class="stroke-current" />
+    <line x1="321" y1="318.5" x2="324" y2="318.5" class="stroke-current" />
+    <line x1="324.5" y1="315" x2="324.5" y2="319" class="stroke-current" />
+    <rect x="276.5" y="285.5" width="18" height="29" class="stroke-current" />
+    <line x1="276.5" y1="315" x2="276.5" y2="320" class="stroke-current" />
+    <line x1="276" y1="319.5" x2="281" y2="319.5" class="stroke-current" />
+    <line x1="281.5" y1="319" x2="281.5" y2="323" class="stroke-current" />
+    <line x1="281" y1="322.5" x2="291" y2="322.5" class="stroke-current" />
+    <line x1="290.5" y1="323" x2="290.5" y2="318" class="stroke-current" />
+    <line x1="291" y1="318.5" x2="294" y2="318.5" class="stroke-current" />
+    <line x1="294.5" y1="315" x2="294.5" y2="319" class="stroke-current" />
+    <rect x="246.5" y="285.5" width="18" height="29" class="stroke-current" />
+    <line x1="246.5" y1="315" x2="246.5" y2="320" class="stroke-current" />
+    <line x1="246" y1="319.5" x2="251" y2="319.5" class="stroke-current" />
+    <line x1="251.5" y1="319" x2="251.5" y2="323" class="stroke-current" />
+    <line x1="251" y1="322.5" x2="261" y2="322.5" class="stroke-current" />
+    <line x1="260.5" y1="323" x2="260.5" y2="318" class="stroke-current" />
+    <line x1="261" y1="318.5" x2="264" y2="318.5" class="stroke-current" />
+    <line x1="264.5" y1="315" x2="264.5" y2="319" class="stroke-current" />
+    <rect x="216.5" y="285.5" width="18" height="29" class="stroke-current" />
+    <line x1="216.5" y1="315" x2="216.5" y2="320" class="stroke-current" />
+    <line x1="216" y1="319.5" x2="221" y2="319.5" class="stroke-current" />
+    <line x1="221.5" y1="319" x2="221.5" y2="323" class="stroke-current" />
+    <line x1="221" y1="322.5" x2="231" y2="322.5" class="stroke-current" />
+    <line x1="230.5" y1="323" x2="230.5" y2="318" class="stroke-current" />
+    <line x1="231" y1="318.5" x2="234" y2="318.5" class="stroke-current" />
+    <line x1="234.5" y1="315" x2="234.5" y2="319" class="stroke-current" />
+    <rect x="186.5" y="285.5" width="18" height="29" class="stroke-current" />
+    <line x1="186.5" y1="315" x2="186.5" y2="320" class="stroke-current" />
+    <line x1="186" y1="319.5" x2="191" y2="319.5" class="stroke-current" />
+    <line x1="191.5" y1="319" x2="191.5" y2="323" class="stroke-current" />
+    <line x1="191" y1="322.5" x2="201" y2="322.5" class="stroke-current" />
+    <line x1="200.5" y1="323" x2="200.5" y2="318" class="stroke-current" />
+    <line x1="201" y1="318.5" x2="204" y2="318.5" class="stroke-current" />
+    <line x1="204.5" y1="315" x2="204.5" y2="319" class="stroke-current" />
+    <rect x="155.5" y="285.5" width="18" height="29" class="stroke-current" />
+    <line x1="155.5" y1="315" x2="155.5" y2="320" class="stroke-current" />
+    <line x1="155" y1="319.5" x2="160" y2="319.5" class="stroke-current" />
+    <line x1="160.5" y1="319" x2="160.5" y2="323" class="stroke-current" />
+    <line x1="160" y1="322.5" x2="170" y2="322.5" class="stroke-current" />
+    <line x1="169.5" y1="323" x2="169.5" y2="318" class="stroke-current" />
+    <line x1="170" y1="318.5" x2="173" y2="318.5" class="stroke-current" />
+    <line x1="173.5" y1="315" x2="173.5" y2="319" class="stroke-current" />
+    <line x1="701.5" y1="315" x2="701.5" y2="320" class="stroke-current" />
+    <line x1="701" y1="319.5" x2="706" y2="319.5" class="stroke-current" />
+    <line x1="706.5" y1="319" x2="706.5" y2="323" class="stroke-current" />
+    <line x1="706" y1="322.5" x2="716" y2="322.5" class="stroke-current" />
+    <line x1="715.5" y1="323" x2="715.5" y2="318" class="stroke-current" />
+    <line x1="716" y1="318.5" x2="719" y2="318.5" class="stroke-current" />
+    <line x1="719.5" y1="315" x2="719.5" y2="319" class="stroke-current" />
+    <line x1="731.5" y1="315" x2="731.5" y2="320" class="stroke-current" />
+    <line x1="731" y1="319.5" x2="736" y2="319.5" class="stroke-current" />
+    <line x1="736.5" y1="319" x2="736.5" y2="323" class="stroke-current" />
+    <line x1="736" y1="322.5" x2="746" y2="322.5" class="stroke-current" />
+    <line x1="745.5" y1="323" x2="745.5" y2="318" class="stroke-current" />
+    <line x1="746" y1="318.5" x2="749" y2="318.5" class="stroke-current" />
+    <line x1="749.5" y1="315" x2="749.5" y2="319" class="stroke-current" />
+    <line x1="761.5" y1="315" x2="761.5" y2="320" class="stroke-current" />
+    <line x1="761" y1="319.5" x2="766" y2="319.5" class="stroke-current" />
+    <line x1="766.5" y1="319" x2="766.5" y2="323" class="stroke-current" />
+    <line x1="766" y1="322.5" x2="776" y2="322.5" class="stroke-current" />
+    <line x1="775.5" y1="323" x2="775.5" y2="318" class="stroke-current" />
+    <line x1="776" y1="318.5" x2="779" y2="318.5" class="stroke-current" />
+    <line x1="779.5" y1="315" x2="779.5" y2="319" class="stroke-current" />
+    <rect x="90.5" y="285.5" width="14" height="29" class="stroke-current" />
+    <line x1="84.5" y1="275" x2="84.5" y2="370" class="stroke-current" />
+    <line x1="76.5" y1="274" x2="76.5" y2="371" class="stroke-current" />
+    <line x1="57.5" y1="282" x2="57.5" y2="371" class="stroke-current" />
+    <line x1="110.5" y1="275" x2="110.5" y2="371" class="stroke-current" />
+    <line x1="118.5" y1="274" x2="118.5" y2="370" class="stroke-current" />
+    <line x1="110" y1="323.5" x2="118" y2="323.5" class="stroke-current" />
+    <line x1="76" y1="323.5" x2="84" y2="323.5" class="stroke-current" />
+    <line x1="137.5" y1="282" x2="137.5" y2="370" class="stroke-current" />
+    <line x1="57" y1="213.5" x2="139" y2="213.5" class="stroke-current" />
+    <line x1="57.5" y1="214" x2="57.5" y2="252" class="stroke-current" />
+    <line x1="138.5" y1="214" x2="138.5" y2="252" class="stroke-current" />
+    <line x1="43.9977" y1="252.005" x2="152.002" y2="252.005" class="stroke-current" />
+    <line x1="44.5" y1="247" x2="44.5" y2="280" class="stroke-current" />
+    <line x1="151.5" y1="245" x2="151.5" y2="278" class="stroke-current" />
+    <line x1="44" y1="258.5" x2="152" y2="258.5" class="stroke-current" />
+    <line x1="78.5" y1="259" x2="78.5" y2="274" class="stroke-current" />
+    <line x1="82.5" y1="259" x2="82.5" y2="274" class="stroke-current" />
+    <line x1="112.5" y1="259" x2="112.5" y2="274" class="stroke-current" />
+    <line x1="116.5" y1="259" x2="116.5" y2="274" class="stroke-current" />
+    <line x1="57" y1="218.5" x2="138" y2="218.5" class="stroke-current" />
+    <line x1="892" y1="251.5" x2="610" y2="251.5" class="stroke-current" />
+    <line x1="408.5" y1="260" x2="408.5" y2="323" class="stroke-current" />
+    <line x1="417.5" y1="260" x2="417.5" y2="323" class="stroke-current" />
+    <line x1="450" y1="259.5" x2="321" y2="259.5" class="stroke-current" />
+    <line x1="368.372" y1="259.666" x2="377.372" y2="269.666" class="stroke-current" />
+    <line x1="321.429" y1="259.743" x2="327.429" y2="269.743" class="stroke-current" />
+    <line x1="408" y1="322.5" x2="529" y2="322.5" class="stroke-current" />
+    <line x1="405.5" y1="323" x2="405.5" y2="333" class="stroke-current" />
+    <line x1="405" y1="332.5" x2="532" y2="332.5" class="stroke-current" />
+    <line x1="401" y1="342.5" x2="433" y2="342.5" class="stroke-current" />
+    <line x1="503" y1="342.5" x2="535" y2="342.5" class="stroke-current" />
+    <line x1="532.5" y1="323" x2="532.5" y2="333" class="stroke-current" />
+    <line x1="405" y1="322.5" x2="408" y2="322.5" class="stroke-current" />
+    <line x1="529" y1="322.5" x2="533" y2="322.5" class="stroke-current" />
+    <line x1="433.5" y1="323" x2="433.5" y2="332" class="stroke-current" />
+    <line x1="502.5" y1="323" x2="502.5" y2="332" class="stroke-current" />
+    <line x1="532" y1="328.5" x2="502" y2="328.5" class="stroke-current" />
+    <line x1="434" y1="328.5" x2="405" y2="328.5" class="stroke-current" />
+    <line x1="445.5" y1="239" x2="445.5" y2="318" class="stroke-current" />
+    <line x1="449.5" y1="255" x2="449.5" y2="318" class="stroke-current" />
+    <line x1="486.5" y1="255" x2="486.5" y2="318" class="stroke-current" />
+    <line x1="490.5" y1="238" x2="490.5" y2="318" class="stroke-current" />
+    <line x1="500.5" y1="238" x2="500.5" y2="319" class="stroke-current" />
+    <line x1="487" y1="259.5" x2="616" y2="259.5" class="stroke-current" />
+    <line x1="499.997" y1="268.743" x2="611.001" y2="268.743" class="stroke-current" />
+    <line x1="610.584" y1="268.723" x2="616.584" y2="259.723" class="stroke-current" />
+    <line x1="561.584" y1="268.723" x2="567.584" y2="259.723" class="stroke-current" />
+    <line x1="519.5" y1="260" x2="519.5" y2="323" class="stroke-current" />
+    <line x1="529.5" y1="238" x2="529.5" y2="322" class="stroke-current" />
+    <line x1="500" y1="248.5" x2="608" y2="248.5" class="stroke-current" />
+    <line x1="559.5" y1="238" x2="559.5" y2="259" class="stroke-current" />
+    <line x1="596.5" y1="239" x2="596.5" y2="260" class="stroke-current" />
+    <line x1="816.5" y1="315" x2="816.5" y2="370" class="stroke-current" />
+    <line x1="825.5" y1="275" x2="825.5" y2="371" class="stroke-current" />
+    <line x1="852.5" y1="275" x2="852.5" y2="371" class="stroke-current" />
+    <line x1="860.5" y1="275" x2="860.5" y2="371" class="stroke-current" />
+    <line x1="878.5" y1="283" x2="878.5" y2="371" class="stroke-current" />
+    <line x1="816.5" y1="275" x2="816.5" y2="286" class="stroke-current" />
+    <line x1="882.5" y1="275" x2="882.5" y2="280" class="stroke-current" />
+    <line x1="878.646" y1="283.646" x2="882.646" y2="279.646" class="stroke-current" />
+    <line x1="890.646" y1="282.646" x2="892.646" y2="280.646" class="stroke-current" />
+    <line x1="892.5" y1="275" x2="892.5" y2="281" class="stroke-current" />
+    <line x1="892.5" y1="245" x2="892.5" y2="274" class="stroke-current" />
+    <line x1="784.5" y1="251" x2="784.5" y2="279" class="stroke-current" />
+    <line x1="784.4" y1="278.7" x2="787.4" y2="282.7" class="stroke-current" />
+    <line x1="795.4" y1="279.7" x2="798.4" y2="283.7" class="stroke-current" />
+    <line x1="798.5" y1="283" x2="798.5" y2="370" class="stroke-current" />
+    <line x1="795.5" y1="275" x2="795.5" y2="280" class="stroke-current" />
+    <line x1="200.5" y1="164" x2="200.5" y2="252" class="stroke-current" />
+    <line x1="250.5" y1="164" x2="250.5" y2="252" class="stroke-current" />
+    <line x1="196" y1="163.5" x2="261" y2="163.5" class="stroke-current" />
+    <line x1="208.5" y1="164" x2="208.5" y2="252" class="stroke-current" />
+    <line x1="258.5" y1="164" x2="258.5" y2="252" class="stroke-current" />
+    <line x1="198.5" y1="157" x2="198.5" y2="163" class="stroke-current" />
+    <line x1="259.5" y1="157" x2="259.5" y2="163" class="stroke-current" />
+    <line x1="198" y1="156.5" x2="260" y2="156.5" class="stroke-current" />
+    <line x1="202" y1="73.5" x2="255" y2="73.5" class="stroke-current" />
+    <line x1="203.5" y1="74" x2="203.5" y2="99" class="stroke-current" />
+    <line x1="254.5" y1="74" x2="254.5" y2="99" class="stroke-current" />
+    <line x1="198" y1="98.5" x2="260" y2="98.5" class="stroke-current" />
+    <line x1="202.5" y1="99" x2="202.5" y2="145" class="stroke-current" />
+    <line x1="205.5" y1="99" x2="205.5" y2="145" class="stroke-current" />
+    <line x1="252.5" y1="99" x2="252.5" y2="145" class="stroke-current" />
+    <line x1="255.5" y1="99" x2="255.5" y2="145" class="stroke-current" />
+    <circle cx="229" cy="119" r="14.5" class="stroke-current" />
+    <circle cx="228.5" cy="118.5" r="7" class="stroke-current" />
+    <line x1="225.354" y1="116.646" x2="228.354" y2="119.646" class="stroke-current" />
+    <line x1="231.429" y1="115.257" x2="228.429" y2="120.257" class="stroke-current" />
+    <line x1="214.5" y1="99" x2="214.5" y2="145" class="stroke-current" />
+    <line x1="243.5" y1="99" x2="243.5" y2="145" class="stroke-current" />
+    <line x1="218.5" y1="129" x2="218.5" y2="143" class="stroke-current" />
+    <line x1="239.5" y1="129" x2="239.5" y2="143" class="stroke-current" />
+    <line x1="218" y1="142.5" x2="240" y2="142.5" class="stroke-current" />
+    <rect x="200.5" y="145.5" width="7" height="11" class="stroke-current" />
+    <rect x="213.5" y="145.5" width="7" height="11" class="stroke-current" />
+    <rect x="237.5" y="145.5" width="7" height="11" class="stroke-current" />
+    <rect x="250.5" y="145.5" width="7" height="11" class="stroke-current" />
+    <line x1="218.5" y1="86" x2="218.5" y2="109" class="stroke-current" />
+    <line x1="239.5" y1="86" x2="239.5" y2="109" class="stroke-current" />
+    <line x1="218" y1="93.5" x2="239" y2="93.5" class="stroke-current" />
+    <path
+      d="M214.5 97.6851V83.417C215.317 82.7419 215.896 82.4937 216.433 82.5001C216.983 82.5067 217.603 82.7797 218.5 83.4359V97.6851H214.5Z"
+      class="stroke-current"
+    />
+    <path
+      d="M239.5 97.6851V83.417C240.317 82.7419 240.896 82.4937 241.433 82.5001C241.983 82.5067 242.603 82.7797 243.5 83.4359V97.6851H239.5Z"
+      class="stroke-current"
+    />
+    <line x1="209" y1="66.5" x2="248" y2="66.5" class="stroke-current" />
+    <line x1="202.646" y1="73.6464" x2="209.646" y2="66.6464" class="stroke-current" />
+    <line
+      y1="-0.5"
+      x2="9.8995"
+      y2="-0.5"
+      transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 254 74)"
+      class="stroke-current"
+    />
+    <line x1="209.5" y1="47" x2="209.5" y2="67" class="stroke-current" />
+    <line x1="247.5" y1="47" x2="247.5" y2="66" class="stroke-current" />
+    <line x1="209" y1="46.5" x2="248" y2="46.5" class="stroke-current" />
+    <rect x="225.5" y="188.5" width="7" height="13" class="stroke-current" />
+    <rect x="64.5" y="285.5" width="12" height="29" class="stroke-current" />
+    <rect x="118.5" y="285.5" width="12" height="29" class="stroke-current" />
+    <line x1="54.4" y1="278.7" x2="57.4" y2="282.7" class="stroke-current" />
+    <line x1="54.5" y1="274" x2="54.5" y2="279" class="stroke-current" />
+    <line x1="151.464" y1="277.186" x2="149.464" y2="282.186" class="stroke-current" />
+    <line x1="140.354" y1="279.354" x2="137.354" y2="282.354" class="stroke-current" />
+    <line x1="140.5" y1="275" x2="140.5" y2="280" class="stroke-current" />
+    <circle cx="468" cy="258" r="8.5" class="stroke-current" />
+    <line x1="381" y1="171.5" x2="555" y2="171.5" class="stroke-current" />
+    <line x1="381.5" y1="171" x2="381.5" y2="185" class="stroke-current" />
+    <line x1="555.5" y1="171" x2="555.5" y2="185" class="stroke-current" />
+    <rect x="442.5" y="101.5" width="51" height="6" rx="3" class="stroke-current" />
+    <line x1="452.5" y1="75" x2="452.5" y2="101" class="stroke-current" />
+    <line x1="483.5" y1="75" x2="483.5" y2="101" class="stroke-current" />
+    <line x1="450" y1="74.5" x2="486" y2="74.5" class="stroke-current" />
+    <path d="M461.5 101.5V87.2573L468 82.6144L474.5 87.2573V101.5H461.5Z" class="stroke-current" />
+    <line x1="377" y1="189.5" x2="559" y2="189.5" class="stroke-current" />
+    <line x1="419" y1="179.5" x2="518" y2="179.5" class="stroke-current" />
+    <path d="M458.165 107.259C442.294 126.271 441.625 145.019 442 180" class="stroke-current" />
+    <path d="M451 107.5C435.129 126.512 424.625 144.519 425 179.5" class="stroke-current" />
+    <path d="M485.098 107.329C500.941 126.213 511.419 144.105 511 178.888" class="stroke-current" />
+    <path d="M478 107.584C493.838 126.446 494.478 145.068 494.052 179.816" class="stroke-current" />
+    <line x1="377.5" y1="190" x2="377.5" y2="224" class="stroke-current" />
+    <line x1="559.5" y1="189" x2="559.5" y2="224" class="stroke-current" />
+    <line x1="490" y1="238.5" x2="609" y2="238.5" class="stroke-current" />
+    <line x1="608.5" y1="238" x2="608.5" y2="249" class="stroke-current" />
+    <line x1="446.003" y1="238.94" x2="327.003" y2="238.94" class="stroke-current" />
+    <line x1="435" y1="249.5" x2="327" y2="249.5" class="stroke-current" />
+    <line x1="340.5" y1="239" x2="340.5" y2="260" class="stroke-current" />
+    <line x1="377.5" y1="239" x2="377.5" y2="260" class="stroke-current" />
+    <line x1="408.5" y1="239" x2="408.5" y2="261" class="stroke-current" />
+    <line x1="327.5" y1="239" x2="327.5" y2="250" class="stroke-current" />
+    <line x1="326" y1="252.5" x2="152" y2="252.5" class="stroke-current" />
+    <line x1="151" y1="262.5" x2="323" y2="262.5" class="stroke-current" />
+    <rect x="185.5" y="252.5" width="19" height="10" class="stroke-current" />
+    <rect x="157.5" y="252.5" width="19" height="10" class="stroke-current" />
+    <rect x="216.5" y="252.5" width="19" height="10" class="stroke-current" />
+    <rect x="276.5" y="252.5" width="19" height="10" class="stroke-current" />
+    <line x1="160.5" y1="253" x2="160.5" y2="262" class="stroke-current" />
+    <line x1="163.5" y1="253" x2="163.5" y2="262" class="stroke-current" />
+    <line x1="166.5" y1="253" x2="166.5" y2="262" class="stroke-current" />
+    <line x1="169.5" y1="253" x2="169.5" y2="262" class="stroke-current" />
+    <line x1="172.5" y1="253" x2="172.5" y2="262" class="stroke-current" />
+    <line x1="188.5" y1="253" x2="188.5" y2="262" class="stroke-current" />
+    <line x1="191.5" y1="253" x2="191.5" y2="262" class="stroke-current" />
+    <line x1="194.5" y1="253" x2="194.5" y2="262" class="stroke-current" />
+    <line x1="197.5" y1="253" x2="197.5" y2="262" class="stroke-current" />
+    <line x1="200.5" y1="253" x2="200.5" y2="262" class="stroke-current" />
+    <line x1="220.5" y1="253" x2="220.5" y2="262" class="stroke-current" />
+    <line x1="223.5" y1="253" x2="223.5" y2="262" class="stroke-current" />
+    <line x1="226.5" y1="253" x2="226.5" y2="262" class="stroke-current" />
+    <line x1="229.5" y1="253" x2="229.5" y2="262" class="stroke-current" />
+    <line x1="232.5" y1="253" x2="232.5" y2="262" class="stroke-current" />
+    <rect x="245.5" y="252.5" width="19" height="10" class="stroke-current" />
+    <line x1="248.5" y1="253" x2="248.5" y2="262" class="stroke-current" />
+    <line x1="251.5" y1="253" x2="251.5" y2="262" class="stroke-current" />
+    <line x1="254.5" y1="253" x2="254.5" y2="262" class="stroke-current" />
+    <line x1="257.5" y1="253" x2="257.5" y2="262" class="stroke-current" />
+    <line x1="260.5" y1="253" x2="260.5" y2="262" class="stroke-current" />
+    <rect x="640.5" y="251.5" width="19" height="10" class="stroke-current" />
+    <line x1="643.5" y1="252" x2="643.5" y2="261" class="stroke-current" />
+    <line x1="646.5" y1="252" x2="646.5" y2="261" class="stroke-current" />
+    <line x1="649.5" y1="252" x2="649.5" y2="261" class="stroke-current" />
+    <line x1="652.5" y1="252" x2="652.5" y2="261" class="stroke-current" />
+    <line x1="655.5" y1="252" x2="655.5" y2="261" class="stroke-current" />
+    <rect x="671.5" y="251.5" width="19" height="10" class="stroke-current" />
+    <line x1="674.5" y1="252" x2="674.5" y2="261" class="stroke-current" />
+    <line x1="677.5" y1="252" x2="677.5" y2="261" class="stroke-current" />
+    <line x1="680.5" y1="252" x2="680.5" y2="261" class="stroke-current" />
+    <line x1="683.5" y1="252" x2="683.5" y2="261" class="stroke-current" />
+    <line x1="686.5" y1="252" x2="686.5" y2="261" class="stroke-current" />
+    <rect x="700.5" y="251.5" width="19" height="10" class="stroke-current" />
+    <line x1="703.5" y1="252" x2="703.5" y2="261" class="stroke-current" />
+    <line x1="706.5" y1="252" x2="706.5" y2="261" class="stroke-current" />
+    <line x1="709.5" y1="252" x2="709.5" y2="261" class="stroke-current" />
+    <line x1="712.5" y1="252" x2="712.5" y2="261" class="stroke-current" />
+    <line x1="715.5" y1="252" x2="715.5" y2="261" class="stroke-current" />
+    <rect x="730.5" y="251.5" width="19" height="10" class="stroke-current" />
+    <line x1="733.5" y1="252" x2="733.5" y2="261" class="stroke-current" />
+    <line x1="736.5" y1="252" x2="736.5" y2="261" class="stroke-current" />
+    <line x1="739.5" y1="252" x2="739.5" y2="261" class="stroke-current" />
+    <line x1="742.5" y1="252" x2="742.5" y2="261" class="stroke-current" />
+    <line x1="745.5" y1="252" x2="745.5" y2="261" class="stroke-current" />
+    <rect x="759.5" y="251.5" width="19" height="10" class="stroke-current" />
+    <line x1="762.5" y1="252" x2="762.5" y2="261" class="stroke-current" />
+    <line x1="765.5" y1="252" x2="765.5" y2="261" class="stroke-current" />
+    <line x1="768.5" y1="252" x2="768.5" y2="261" class="stroke-current" />
+    <line x1="771.5" y1="252" x2="771.5" y2="261" class="stroke-current" />
+    <line x1="774.5" y1="252" x2="774.5" y2="261" class="stroke-current" />
+    <line x1="280.5" y1="253" x2="280.5" y2="262" class="stroke-current" />
+    <line x1="283.5" y1="253" x2="283.5" y2="262" class="stroke-current" />
+    <line x1="286.5" y1="253" x2="286.5" y2="262" class="stroke-current" />
+    <line x1="289.5" y1="253" x2="289.5" y2="262" class="stroke-current" />
+    <line x1="292.5" y1="253" x2="292.5" y2="262" class="stroke-current" />
+    <line x1="307.5" y1="253" x2="307.5" y2="262" class="stroke-current" />
+    <line x1="310.5" y1="253" x2="310.5" y2="262" class="stroke-current" />
+    <line x1="313.5" y1="253" x2="313.5" y2="262" class="stroke-current" />
+    <line x1="316.5" y1="253" x2="316.5" y2="262" class="stroke-current" />
+    <line x1="319.5" y1="253" x2="319.5" y2="262" class="stroke-current" />
+    <line x1="615" y1="261.5" x2="784" y2="261.5" class="stroke-current" />
+    <line x1="784" y1="258.5" x2="892" y2="258.5" class="stroke-current" />
+    <line x1="798.5" y1="214" x2="798.5" y2="252" class="stroke-current" />
+    <line x1="878.5" y1="214" x2="878.5" y2="252" class="stroke-current" />
+    <line x1="798" y1="213.5" x2="879" y2="213.5" class="stroke-current" />
+    <line x1="798" y1="218.5" x2="879" y2="218.5" class="stroke-current" />
+    <line x1="819.5" y1="259" x2="819.5" y2="275" class="stroke-current" />
+    <line x1="822.5" y1="259" x2="822.5" y2="275" class="stroke-current" />
+    <line x1="854.5" y1="259" x2="854.5" y2="275" class="stroke-current" />
+    <line x1="857.5" y1="259" x2="857.5" y2="275" class="stroke-current" />
+    <line x1="377" y1="223.5" x2="310" y2="223.5" class="stroke-current" />
+    <line x1="310.336" y1="223.37" x2="278.336" y2="252.37" class="stroke-current" />
+    <line y1="-0.5" x2="67" y2="-0.5" transform="matrix(1 0 0 -1 559 223)" class="stroke-current" />
+    <line
+      y1="-0.5"
+      x2="42.5206"
+      y2="-0.5"
+      transform="matrix(0.752577 0.658505 0.684374 -0.729131 626 223)"
+      class="stroke-current"
+    />
+    <line x1="349.5" y1="307" x2="349.5" y2="313" class="stroke-current" />
+    <line x1="368.5" y1="307" x2="368.5" y2="313" class="stroke-current" />
+    <line x1="349" y1="312.5" x2="353" y2="312.5" class="stroke-current" />
+    <line x1="365" y1="312.5" x2="369" y2="312.5" class="stroke-current" />
+    <line x1="353.5" y1="312" x2="353.5" y2="315" class="stroke-current" />
+    <line x1="364.5" y1="312" x2="364.5" y2="315" class="stroke-current" />
+    <line x1="353" y1="314.5" x2="365" y2="314.5" class="stroke-current" />
+    <line x1="567.5" y1="307" x2="567.5" y2="313" class="stroke-current" />
+    <line x1="586.5" y1="307" x2="586.5" y2="313" class="stroke-current" />
+    <line x1="567" y1="312.5" x2="571" y2="312.5" class="stroke-current" />
+    <line x1="583" y1="312.5" x2="587" y2="312.5" class="stroke-current" />
+    <line x1="571.5" y1="312" x2="571.5" y2="315" class="stroke-current" />
+    <line x1="582.5" y1="312" x2="582.5" y2="315" class="stroke-current" />
+    <line x1="571" y1="314.5" x2="583" y2="314.5" class="stroke-current" />
+    <line x1="424" y1="194.5" x2="512" y2="194.5" class="stroke-current" />
+    <line x1="424.5" y1="194" x2="424.5" y2="207" class="stroke-current" />
+    <line x1="511.5" y1="195" x2="511.5" y2="208" class="stroke-current" />
+    <line x1="427" y1="218.5" x2="509" y2="218.5" class="stroke-current" />
+    <line x1="424" y1="206.5" x2="428" y2="206.5" class="stroke-current" />
+    <line x1="427.5" y1="207" x2="427.5" y2="219" class="stroke-current" />
+    <line y1="-0.5" x2="4" y2="-0.5" transform="matrix(-1 0 0 1 512 208)" class="stroke-current" />
+    <line y1="-0.5" x2="11" y2="-0.5" transform="matrix(0 1 1 0 509 208)" class="stroke-current" />
+    <line x1="414" y1="185.5" x2="374" y2="185.5" class="stroke-current" />
+    <line x1="414.5" y1="185" x2="414.5" y2="189" class="stroke-current" />
+    <line x1="374.4" y1="185.7" x2="377.4" y2="189.7" class="stroke-current" />
+    <line y1="-0.5" x2="40" y2="-0.5" transform="matrix(1 0 0 -1 523 185)" class="stroke-current" />
+    <line y1="-0.5" x2="4" y2="-0.5" transform="matrix(0 1 1 0 523 185)" class="stroke-current" />
+    <line y1="-0.5" x2="5" y2="-0.5" transform="matrix(-0.6 0.8 0.8 0.6 563 186)" class="stroke-current" />
+    <line x1="517.384" y1="179.68" x2="522.384" y2="185.68" class="stroke-current" />
+    <line
+      y1="-0.5"
+      x2="7.81025"
+      y2="-0.5"
+      transform="matrix(-0.640184 0.768221 0.768221 0.640184 420 180)"
+      class="stroke-current"
+    />
+    <circle cx="358.5" cy="332.5" r="8" class="stroke-current" />
+    <rect x="226.5" y="49.5" width="5" height="10" class="stroke-current" />
+    <line x1="223.5" y1="47" x2="223.5" y2="61" class="stroke-current" />
+    <line x1="234.5" y1="47" x2="234.5" y2="61" class="stroke-current" />
+    <line x1="234.384" y1="60.6799" x2="239.384" y2="66.6799" class="stroke-current" />
+    <line
+      y1="-0.5"
+      x2="7.81025"
+      y2="-0.5"
+      transform="matrix(-0.640184 0.768221 0.768221 0.640184 224 61)"
+      class="stroke-current"
+    />
+    <line x1="215" y1="40.5" x2="242" y2="40.5" class="stroke-current" />
+    <line x1="218" y1="25.5" x2="239" y2="25.5" class="stroke-current" />
+    <line x1="218.5" y1="26" x2="218.5" y2="37" class="stroke-current" />
+    <line x1="238.5" y1="26" x2="238.5" y2="37" class="stroke-current" />
+    <line x1="209.628" y1="46.6655" x2="218.628" y2="36.6655" class="stroke-current" />
+    <line
+      y1="-0.5"
+      x2="13.4536"
+      y2="-0.5"
+      transform="matrix(-0.668965 -0.743294 -0.743294 0.668965 247 47)"
+      class="stroke-current"
+    />
+    <line y1="-0.5" x2="5" y2="-0.5" transform="matrix(0 -1 -1 0 534 342)" class="stroke-current" />
+    <line x1="534.536" y1="337.186" x2="532.536" y2="332.186" class="stroke-current" />
+    <line x1="503.5" y1="342" x2="503.5" y2="337" class="stroke-current" />
+    <line
+      y1="-0.5"
+      x2="5.38516"
+      y2="-0.5"
+      transform="matrix(0.371391 -0.928477 -0.928477 -0.371391 503 337)"
+      class="stroke-current"
+    />
+    <line y1="-0.5" x2="5" y2="-0.5" transform="matrix(0 -1 -1 0 433 342)" class="stroke-current" />
+    <line x1="433.536" y1="337.186" x2="431.536" y2="332.186" class="stroke-current" />
+    <line x1="401.5" y1="342" x2="401.5" y2="337" class="stroke-current" />
+    <line x1="401.61" y1="337.688" x2="405.61" y2="332.688" class="stroke-current" />
+    <line x1="325.5" y1="253" x2="325.5" y2="259" class="stroke-current" />
+    <line x1="322.5" y1="253" x2="322.5" y2="259" class="stroke-current" />
+    <line x1="629.5" y1="252" x2="629.5" y2="261" class="stroke-current" />
+    <line x1="625.5" y1="252" x2="625.5" y2="261" class="stroke-current" />
+    <line x1="622.5" y1="252" x2="622.5" y2="261" class="stroke-current" />
+    <line x1="619.5" y1="252" x2="619.5" y2="261" class="stroke-current" />
+    <line x1="610.5" y1="252" x2="610.5" y2="260" class="stroke-current" />
+    <line x1="613.5" y1="252" x2="613.5" y2="260" class="stroke-current" />
+    <line x1="616.5" y1="252" x2="616.5" y2="260" class="stroke-current" />
+    <path
+      d="M813.5 338.5C813.5 340.206 813.02 341.729 812.271 342.812C811.52 343.896 810.532 344.5 809.5 344.5C808.468 344.5 807.48 343.896 806.729 342.812C805.98 341.729 805.5 340.206 805.5 338.5C805.5 336.794 805.98 335.271 806.729 334.188C807.48 333.104 808.468 332.5 809.5 332.5C810.532 332.5 811.52 333.104 812.271 334.188C813.02 335.271 813.5 336.794 813.5 338.5Z"
+      class="stroke-current"
+    />
+    <path
+      d="M870.5 337.5C870.5 339.206 870.02 340.729 869.271 341.812C868.52 342.896 867.532 343.5 866.5 343.5C865.468 343.5 864.48 342.896 863.729 341.812C862.98 340.729 862.5 339.206 862.5 337.5C862.5 335.794 862.98 334.271 863.729 333.188C864.48 332.104 865.468 331.5 866.5 331.5C867.532 331.5 868.52 332.104 869.271 333.188C870.02 334.271 870.5 335.794 870.5 337.5Z"
+      class="stroke-current"
+    />
+    <path
+      d="M118.5 370.5V331.983C119.937 330.086 121.21 328.708 122.398 327.806C123.607 326.887 124.702 326.482 125.778 326.501C126.859 326.519 127.998 326.967 129.29 327.906C130.552 328.823 131.928 330.186 133.5 332.002V370.5H118.5Z"
+      class="stroke-current"
+    />
+    <path
+      d="M130.5 337.5C130.5 339.194 129.971 340.71 129.139 341.791C128.308 342.872 127.193 343.5 126 343.5C124.807 343.5 123.692 342.872 122.861 341.791C122.029 340.71 121.5 339.194 121.5 337.5C121.5 335.806 122.029 334.29 122.861 333.209C123.692 332.128 124.807 331.5 126 331.5C127.193 331.5 128.308 332.128 129.139 333.209C129.971 334.29 130.5 335.806 130.5 337.5Z"
+      class="stroke-current"
+    />
+    <path
+      d="M61.5 370.5V331.983C62.9371 330.086 64.2098 328.708 65.3977 327.806C66.6072 326.887 67.7021 326.482 68.7776 326.501C69.8588 326.519 70.9978 326.967 72.2899 327.906C73.5519 328.823 74.9278 330.186 76.5 332.002V370.5H61.5Z"
+      class="stroke-current"
+    />
+    <path
+      d="M74.5 337.5C74.5 340.895 72.1864 343.5 69.5 343.5C66.8136 343.5 64.5 340.895 64.5 337.5C64.5 334.105 66.8136 331.5 69.5 331.5C72.1864 331.5 74.5 334.105 74.5 337.5Z"
+      class="stroke-current"
+    />
+    <line x1="218" y1="85.5" x2="224" y2="85.5" class="stroke-current" />
+    <line x1="234" y1="85.5" x2="240" y2="85.5" class="stroke-current" />
+    <line x1="223.5" y1="78" x2="223.5" y2="85" class="stroke-current" />
+    <line x1="234.5" y1="78" x2="234.5" y2="85" class="stroke-current" />
+    <line x1="223" y1="77.5" x2="227" y2="77.5" class="stroke-current" />
+    <line x1="231" y1="77.5" x2="235" y2="77.5" class="stroke-current" />
+    <line x1="226.5" y1="74" x2="226.5" y2="77" class="stroke-current" />
+    <line x1="231.5" y1="74" x2="231.5" y2="77" class="stroke-current" />
+    <line x1="220.5" y1="22" x2="220.5" y2="25" class="stroke-current" />
+    <line x1="236.5" y1="22" x2="236.5" y2="25" class="stroke-current" />
+    <line x1="220" y1="21.5" x2="237" y2="21.5" class="stroke-current" />
+    <path
+      d="M220.509 21.5023C220.607 18.1146 221.494 14.9184 222.974 12.5589C223.309 12.0249 223.645 11.5685 224.005 11.0789C224.065 10.9975 224.125 10.9151 224.187 10.8313C224.615 10.2465 225.07 9.60665 225.562 8.76593C226.414 7.30979 227.363 5.27279 228.497 1.87904C229.402 5.26716 230.373 7.32352 231.317 8.80444C231.862 9.65896 232.393 10.3124 232.875 10.9021L232.904 10.9383C233.377 11.5169 233.793 12.0252 234.159 12.6253C235.611 15.0022 236.46 18.2087 236.518 21.5973L228.513 21.5498L220.509 21.5023Z"
+      class="stroke-current"
+    />
+    <line x1="458" y1="67.5" x2="478" y2="67.5" class="stroke-current" />
+    <line x1="458.434" y1="67.2481" x2="454.434" y2="74.2481" class="stroke-current" />
+    <line
+      y1="-0.5"
+      x2="8.06226"
+      y2="-0.5"
+      transform="matrix(0.496139 0.868243 0.868243 -0.496139 478 67)"
+      class="stroke-current"
+    />
+    <path
+      d="M490 107.688C493.9 110.55 497.5 115.858 501 115.858C503.825 117.143 502.5 123.5 509.5 120.64C525.725 131.447 541.727 151.369 553.287 171.696"
+      class="stroke-current"
+    />
+    <path
+      d="M446.234 107.364C442.334 110.225 438.734 115.533 435.234 115.533C432.408 116.818 433.734 123.176 426.734 120.315C410.508 131.123 394.507 151.045 382.946 171.372"
+      class="stroke-current"
+    />
+    <line x1="418" y1="223.5" x2="518" y2="223.5" class="stroke-current" />
+    <path d="M446 238.5C456 220 481 221.5 490 238.5" class="stroke-current" />
+    <line x1="44" y1="246.5" x2="48" y2="246.5" class="stroke-current" />
+    <line x1="47.5" y1="247" x2="47.5" y2="238" class="stroke-current" />
+    <line x1="47" y1="237.5" x2="57" y2="237.5" class="stroke-current" />
+    <line y1="-0.5" x2="4" y2="-0.5" transform="matrix(-1 0 0 1 152 245)" class="stroke-current" />
+    <line y1="-0.5" x2="9" y2="-0.5" transform="matrix(0 -1 -1 0 148 245)" class="stroke-current" />
+    <line y1="-0.5" x2="10" y2="-0.5" transform="matrix(-1 0 0 1 149 236)" class="stroke-current" />
+    <path d="M417 286.5C424.42 281.198 428.58 281.386 436 286.5" class="stroke-current" />
+    <path d="M501 286.906C508.42 281.604 512.58 281.792 520 286.906" class="stroke-current" />
+    <line x1="452" y1="306.5" x2="485" y2="306.5" class="stroke-current" />
+    <line x1="457.5" y1="318" x2="457.5" y2="315" class="stroke-current" />
+    <line x1="452.5" y1="307" x2="452.5" y2="310" class="stroke-current" />
+    <line x1="452" y1="309.5" x2="456" y2="309.5" class="stroke-current" />
+    <line x1="456.5" y1="309" x2="456.5" y2="315" class="stroke-current" />
+    <line x1="456" y1="314.5" x2="458" y2="314.5" class="stroke-current" />
+    <line y1="-0.5" x2="3" y2="-0.5" transform="matrix(0 -1 -1 0 479 318)" class="stroke-current" />
+    <line y1="-0.5" x2="3" y2="-0.5" transform="matrix(0 1 1 0 485 307)" class="stroke-current" />
+    <line y1="-0.5" x2="4" y2="-0.5" transform="matrix(-1 0 0 1 485 310)" class="stroke-current" />
+    <line y1="-0.5" x2="6" y2="-0.5" transform="matrix(0 1 1 0 481 309)" class="stroke-current" />
+    <line y1="-0.5" x2="2" y2="-0.5" transform="matrix(-1 0 0 1 481 315)" class="stroke-current" />
+    <line x1="455" y1="301.5" x2="482" y2="301.5" class="stroke-current" />
+    <line x1="455.5" y1="302" x2="455.5" y2="304" class="stroke-current" />
+    <line x1="456" y1="304.5" x2="452" y2="304.5" class="stroke-current" />
+    <line x1="452.5" y1="304" x2="452.5" y2="306" class="stroke-current" />
+    <line y1="-0.5" x2="2" y2="-0.5" transform="matrix(0 1 1 0 482 302)" class="stroke-current" />
+    <line y1="-0.5" x2="4" y2="-0.5" transform="matrix(1 0 0 -1 481 304)" class="stroke-current" />
+    <line y1="-0.5" x2="2" y2="-0.5" transform="matrix(0 1 1 0 485 304)" class="stroke-current" />
+    <path
+      d="M449.5 320.5V247.192C456.725 239.172 462.286 235.451 467.804 235.514C473.333 235.576 479.021 239.435 486.5 247.201V320.5H449.5Z"
+      class="stroke-current"
+    />
+    <path
+      d="M455.5 301.5V249.696C460.614 244.037 464.517 241.457 468.359 241.501C472.213 241.544 476.206 244.224 481.5 249.705V301.5H455.5Z"
+      class="stroke-current"
+    />
+    <line x1="408.5" y1="230" x2="408.5" y2="239" class="stroke-current" />
+    <line x1="408" y1="229.5" x2="454" y2="229.5" class="stroke-current" />
+    <line x1="483" y1="230.5" x2="529" y2="230.5" class="stroke-current" />
+    <line x1="529.5" y1="230" x2="529.5" y2="239" class="stroke-current" />
+    <line x1="418.5" y1="189" x2="418.5" y2="224" class="stroke-current" />
+    <line x1="517.5" y1="189" x2="517.5" y2="224" class="stroke-current" />
+    <line x1="784.5" y1="251" x2="784.5" y2="241" class="stroke-current" />
+    <line x1="784.709" y1="241.593" x2="798.709" y2="231.593" class="stroke-current" />
+    <line y1="-0.5" x2="10" y2="-0.5" transform="matrix(0 -1 -1 0 892 252)" class="stroke-current" />
+    <line
+      y1="-0.5"
+      x2="17.2046"
+      y2="-0.5"
+      transform="matrix(-0.813734 -0.581238 -0.581238 0.813734 892 243)"
+      class="stroke-current"
+    />
+    <line x1="408" y1="305.5" x2="418" y2="305.5" class="stroke-current" />
+    <line x1="435" y1="305.5" x2="445" y2="305.5" class="stroke-current" />
+    <line x1="490" y1="305.5" x2="500" y2="305.5" class="stroke-current" />
+    <line x1="520" y1="305.5" x2="530" y2="305.5" class="stroke-current" />
+    <line x1="435.5" y1="319" x2="435.5" y2="322" class="stroke-current" />
+    <line x1="500.5" y1="319" x2="500.5" y2="322" class="stroke-current" />
+    <line x1="377.5" y1="223" x2="377.5" y2="239" class="stroke-current" />
+    <line x1="559.5" y1="223" x2="559.5" y2="242" class="stroke-current" />
+    <path
+      d="M476.831 53.5L484.023 59H478H477.5V59.5V67.5H458.5V59.5V59H458H450.977L458.169 53.5H476.831Z"
+      class="stroke-current"
+    />
+    <path
+      d="M463.5 53.5V46.5881C465.337 45.1192 466.697 44.4886 467.996 44.5002C469.298 44.5118 470.66 45.1696 472.5 46.5932V53.5H463.5Z"
+      class="stroke-current"
+    />
+  </svg>
+</template>
+
+<script>
+export default {
+  props: {
+    width: {
+      type: String,
+      required: false,
+      default: "6"
+    },
+    height: {
+      type: String,
+      required: false,
+      default: "6"
+    }
+  }
+};
+</script>

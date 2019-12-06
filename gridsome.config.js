@@ -12,8 +12,10 @@ module.exports = {
   icon: '/favicon.ico',
 
   templates: {
-    Post: '/:title',
-    Tag: '/tag/:id'
+    Speaker: '/:name',
+    Sponsor: '/sponsors/:name',
+    Partner: '/partners/:name',
+    Type: '/type/:id'
   },
 
   plugins: [
@@ -21,15 +23,31 @@ module.exports = {
       // Create posts from markdown files
       use: '@gridsome/source-filesystem',
       options: {
-        typeName: 'Post',
-        path: 'content/posts/*.md',
+        typeName: 'Speaker',
+        path: 'content/speakers/*.md'
+      }
+    },
+    {
+      // Create posts from markdown files
+      use: '@gridsome/source-filesystem',
+      options: {
+        typeName: 'Sponsor',
+        path: 'content/sponsors/*.md',
         refs: {
           // Creates a GraphQL collection from 'tags' in front-matter and adds a reference.
-          tags: {
-            typeName: 'Tag',
+          types: {
+            typeName: 'Type',
             create: true
           }
         }
+      }
+    },
+    {
+      // Create posts from markdown files
+      use: '@gridsome/source-filesystem',
+      options: {
+        typeName: 'Partner',
+        path: 'content/partners/*.md'
       }
     }
   ],
