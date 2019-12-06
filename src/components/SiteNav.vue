@@ -25,6 +25,12 @@
         >
           <div class="lg:absolute inset-0 flex items-center justify-center">
             <g-link
+              to="/speakers"
+              class="ml-10 text-sm font-medium"
+            >
+              Speakers
+            </g-link>
+            <g-link
               to="/contact"
               class="ml-10 text-sm font-medium"
             >
@@ -93,16 +99,22 @@
                 <logo-icon height="8" />
               </g-link>
               <g-link
-                to="/code-of-conduct"
+                to="/speakers"
                 class="mt-4 block font-medium"
               >
-                Code of Conduct
+                Speakers
               </g-link>
               <g-link
                 to="/contact"
                 class="mt-4 block font-medium"
               >
                 Contact Us
+              </g-link>
+              <g-link
+                to="/code-of-conduct"
+                class="mt-4 block font-medium"
+              >
+                Code of Conduct
               </g-link>
             </div>
           </div>
