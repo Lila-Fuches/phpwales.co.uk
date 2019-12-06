@@ -147,18 +147,6 @@ export default {
         this.$refs.openButton.focus();
       });
     }
-  },
-  watch: {
-    isOpen: {
-      immediate: true,
-      handler(isOpen) {
-        if (isOpen) {
-          document.body.style.setProperty("overflow", "hidden");
-        } else {
-          document.body.style.removeProperty("overflow");
-        }
-      }
-    }
   }
 };
 </script>
