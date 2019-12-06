@@ -44,7 +44,7 @@
 
 <page-query>
 query {
-  speakers: allSpeaker {
+  speakers: allSpeaker( filter: { announced: { eq: true } } ) {
     edges {
       node {
         id
