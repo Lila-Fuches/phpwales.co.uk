@@ -73,11 +73,11 @@ module.exports = {
           require('tailwindcss')('./tailwind.config.js'),
           require('postcss-preset-env')()
         ])
-        if (process.env.NODE_ENV === 'production') {
-          options.plugins.push(...[
-            require('@fullhuman/postcss-purgecss')(config.purgecss),
-          ])
-        }
+        // if (process.env.NODE_ENV === 'production') {
+        //   options.plugins.push(...[
+        //     require('@fullhuman/postcss-purgecss')(config.purgecss),
+        //   ])
+        // }
         return options
       })
   }
